@@ -1,17 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n=nums.size();
-        map<long long,int> mpp;
-        for(int i=0;i<n;i++){
-            mpp[nums[i]]++;
+        int xxor=0;
+        for(int i=0;i<nums.size();i++){
+            xxor=xxor^nums[i];
         }
-        for(auto it:mpp){
-            if(it.second==1){
-                return it.first;
-            }
-        }
-        return 0;
-        
+        return xxor;
     }
 };
