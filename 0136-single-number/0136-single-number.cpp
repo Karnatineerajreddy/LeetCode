@@ -2,16 +2,13 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
+        map<long long,int> mpp;
         for(int i=0;i<n;i++){
-            int num=nums[i];
-            int cnt=0;
-            for(int j=0;j<n;j++){
-                if(nums[j]==nums[i]){
-                    cnt++;
-                }
-            }
-            if(cnt==1){
-                return num;
+            mpp[nums[i]]++;
+        }
+        for(auto it:mpp){
+            if(it.second==1){
+                return it.first;
             }
         }
         return 0;
