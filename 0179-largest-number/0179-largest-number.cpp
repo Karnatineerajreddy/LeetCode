@@ -3,7 +3,7 @@ public:
     string largestNumber(vector<int>& nums) {
 
         vector<string> strNums;
-        for (int num : nums) {
+        for (auto num : nums) {
             strNums.push_back(to_string(num));
         }
 
@@ -13,7 +13,7 @@ public:
         if(strNums[0]=="0") return "0";
 
         stringstream result;
-        for (string &str : strNums) {
+        for (auto &str : strNums) {
             result << str;
         }
 
