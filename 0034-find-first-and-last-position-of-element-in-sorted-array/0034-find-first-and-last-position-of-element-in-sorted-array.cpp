@@ -7,10 +7,7 @@ public:
                 if(nums[i]==target && nums[j]==target){
                     return {i,j};
                 }
-                else if(nums[i]==target && j==i){
-                    return {i,i};
 
-                }
             }
             if(nums[i]==target){
                 return {i,i};
