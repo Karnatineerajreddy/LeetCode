@@ -3,11 +3,12 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         int n=nums.size();
         map<int,int> ans;
-        for(int num :nums){
-            if(ans[num]>=1) return true;
-            ans[num]++;
+        for(int i=0;i<n;i++){
+            ans[nums[i]]++;
         }
-
+        for(auto it:ans){
+            if(it.second>1) return true;
+        } 
         return false;
     }
 };
