@@ -1,43 +1,45 @@
 class Solution {
 public:
-    int lowerbound(vector<int>&arr,int target){
+    int first(vector<int>&arr,int target){
         int n=arr.size();
         int low=0,high=n-1;
-        int ans=n;
+        int firstt=-1;
         while(low<=high){
             int mid=(low+high)/2;
-            if(arr[mid]>=target){
-                ans=mid;
+            if(arr[mid]==target){
+                firstt=mid;
                 high=mid-1;
             }
+            else if(arr[mid]>target) high=mid-1;
             else{
                 low=mid+1;
             }
         }
-        return ans;
+        return firstt;
     }
-    int upperbound(vector<int>&arr,int target){
+    int last(vector<int>&arr,int target){
         int n=arr.size();
         int low=0,high=n-1;
-        int ans=n;
+        int lastt=-1;
         while(low<=high){
             int mid=(low+high)/2;
-            if(arr[mid]>target){
-                ans=mid;
-                high=mid-1;
+            if(arr[mid]==target){
+                lastt=mid;
+                low=mid+1;
             }
+            else if(arr[mid]>target) high=mid-1;
             else{
                 low=mid+1;
 
             }
         }
-        return ans;
+        return lastt;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
         int n=nums.size();
-        int lb=(lowerbound(nums,target));
-        if((lb==n)||(nums[lb]!=target)) return {-1,-1};
-        return{lb,upperbound(nums,target)-1};
+        int firstocc=(first(nums,target));
+        if(firstocc==-1) return {-1,-1};
+        return{firstocc,last(nums,target)};
 
     }
 };
