@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0169-majority-element) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
