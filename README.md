@@ -160,9 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
