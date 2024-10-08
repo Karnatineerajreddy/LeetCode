@@ -12,7 +12,7 @@ public:
         long long  total=0;
         int n=piles.size();
         for(int i=0;i<n;i++){
-            total +=(piles[i] + mid - 1) / mid;
+            total +=ceil((double)piles[i]/(double)mid);
         }
         return total;
     }
