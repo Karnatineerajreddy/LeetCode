@@ -3,7 +3,9 @@ public:
     int low_values(vector<int> &weights){
         int maxi=INT_MIN;
         for(int i=0;i<weights.size();i++){
-            maxi=max(maxi,weights[i]);
+            if(weights[i]>maxi){
+                maxi=weights[i];
+            }
         }
         return maxi;
     }
