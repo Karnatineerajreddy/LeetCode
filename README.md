@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
