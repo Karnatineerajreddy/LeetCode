@@ -4,7 +4,10 @@ public:
         unordered_map<int,int> ans;
         for(auto it:nums){
             ans[it]++;
-            if(ans[it]>2) return false;
+        }
+        for(auto it:ans){
+            if(it.second>2) return false;
+            
         }
         return true;
         
