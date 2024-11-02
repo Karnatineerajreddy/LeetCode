@@ -21,13 +21,14 @@ public:
             if(temp1) sum +=temp1->val;
             if(temp2) sum +=temp2->val;
             ListNode* newnode=new ListNode(sum%10);
+            carry=sum/10;
             current->next=newnode;
             current=current->next;
-            carry=sum/10;
+            
             if(temp1) temp1=temp1->next;
             if(temp2) temp2=temp2->next;
         }
-        if(carry){
+        if(carry!=0){
             ListNode*newnode=new ListNode(carry);
             current->next=newnode;
         }
