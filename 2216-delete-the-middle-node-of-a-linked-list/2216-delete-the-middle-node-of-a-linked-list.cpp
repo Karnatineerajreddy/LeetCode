@@ -12,22 +12,17 @@ class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
         if (head == NULL || head->next == NULL) {
-        return NULL;
-    }
-
-    // Initialize slow and fast pointers
-    ListNode* slow = head;
-    ListNode* fast = head;
-    fast = head->next->next;
-
-    // Move 'fast' pointer twice as fast as 'slow'
-    while (fast != NULL && fast->next != NULL) {
-        slow = slow->next;
-        fast = fast->next->next;
-    }
-
-    // Delete the middle node by skipping it
-    slow->next = slow->next->next;
-    return head;
+            return NULL;
+        }
+        ListNode* slow=head;
+        ListNode* fast=head;
+        fast=head->next->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        slow->next=slow->next->next;
+        return head;
+        
     }
 };
