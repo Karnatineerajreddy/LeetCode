@@ -1,14 +1,11 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        int n=s.size();
-        unordered_set<char>ans;
+        set<char> ss;
         for(auto it:s){
-            if(ans.count(it)){
-                return it;
-            }
-            ans.insert(it);
+            if(ss.find(it)!=ss.end()) return it;
+            ss.insert(it);
         }
-        return -1;
+        return '\0';
     }
 };
