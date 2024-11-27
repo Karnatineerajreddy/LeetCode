@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
