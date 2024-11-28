@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 ## Dynamic Programming
