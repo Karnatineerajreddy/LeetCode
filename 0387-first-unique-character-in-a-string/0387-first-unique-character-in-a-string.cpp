@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char,int> mpp;
+        map<char,int> mpp;
         for(auto it:s){
             mpp[it]++;
         }
