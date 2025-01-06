@@ -8,6 +8,6 @@ public:
             else if(mid*mid>x) j=mid-1;
             else i=mid+1;
         }
-        return i-1;
+        return j;
     }
 };
