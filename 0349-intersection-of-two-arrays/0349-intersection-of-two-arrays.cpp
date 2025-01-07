@@ -1,30 +1,23 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        int n1=nums1.size();
-        int n2=nums2.size();
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
+        int i = 0, j = 0;
         vector<int> ans;
-        if(n2<n1){
-            for(int i=0;i<nums2.size();i++){
-                for(int j=0;j<nums1.size();j++){
-                    if(nums2[i]==nums1[j]){
-                        if (find(ans.begin(), ans.end(), nums2[i]) != ans.end()) break;
-                        else ans.push_back(nums2[i]);
-                        break;
-                    }
+
+        while (i < nums1.size() && j < nums2.size()) {
+            if (nums1[i] == nums2[j]) {
+                // Check if the element is already in the result
+                if (find(ans.begin(), ans.end(), nums1[i]) == ans.end()) {
+                    ans.push_back(nums1[i]);
                 }
-            }
-        }
-        else{
-            for(int i=0;i<nums1.size();i++){
-                for(int j=0;j<nums2.size();j++){
-                    if(nums1[i]==nums2[j]){
-                        if (find(ans.begin(), ans.end(), nums1[i]) != ans.end()) break;
-                        else ans.push_back(nums1[i]);
-                        break;
-                    }
-                    
-                }
+                i++;
+                j++;
+            } else if (nums1[i] < nums2[j]) {
+                i++;
+            } else {
+                j++;
             }
         }
         return ans;
