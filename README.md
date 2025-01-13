@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0202-happy-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
