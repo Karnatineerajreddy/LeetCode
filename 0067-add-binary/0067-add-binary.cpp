@@ -9,7 +9,7 @@ public:
             int sum=carry;
             if(i>=0) sum+=a[i--] - '0';
             if(j>=0) sum+=b[j--] - '0';
-            carry=sum>1 ? 1 : 0;
+            carry=sum/2;
             result= result+to_string(sum%2);
         }
         if(carry) result=result+to_string(carry);
