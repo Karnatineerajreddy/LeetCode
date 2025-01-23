@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
