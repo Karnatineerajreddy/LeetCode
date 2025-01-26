@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0229-majority-element-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
