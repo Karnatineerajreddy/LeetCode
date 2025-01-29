@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
 | [1524-string-matching-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2886-faulty-keyboard) |
