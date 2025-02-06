@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2886-faulty-keyboard](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Union Find
 |  |
