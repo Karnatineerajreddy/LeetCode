@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
