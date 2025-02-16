@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
