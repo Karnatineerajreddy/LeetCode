@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
