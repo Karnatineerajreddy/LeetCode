@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1582-design-browser-history) |
 | [3447-clear-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3447-clear-digits) |
@@ -558,4 +560,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
