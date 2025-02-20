@@ -1,7 +1,7 @@
 class MinStack {
 public:
 
-    stack<long long> st;  // Use long long for safe calculations
+    stack<long long> st; 
     int minVal;
 
     MinStack() {
@@ -16,7 +16,7 @@ public:
             if (val >= minVal) {
                 st.push(val);
             } else {
-                // Store a modified value to keep track of the minimum
+               
                 st.push((long long)2 * val - minVal);
                 minVal = val;
             }
@@ -30,11 +30,11 @@ public:
         st.pop();
         
         if (topVal < minVal) {
-            // Retrieve previous minimum safely
+           
             minVal = (int)(2LL * minVal - topVal);
         }
 
-        // Reset minVal when stack is empty
+        
         if (st.empty()) {
             minVal = INT_MAX;
         }
