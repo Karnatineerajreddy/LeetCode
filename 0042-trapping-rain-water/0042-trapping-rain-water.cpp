@@ -9,12 +9,12 @@ public:
             return pmax;
     }
     vector<int> suffix(vector<int> &nums){
-            vector<int> pmax(nums.size());;
-            pmax[nums.size()-1]=nums[nums.size()-1];
+            vector<int> smax(nums.size());;
+            smax[nums.size()-1]=nums[nums.size()-1];
             for(int i=nums.size()-2;i>=0;i--){
-                pmax[i]=max(pmax[i+1],nums[i]);
+                smax[i]=max(smax[i+1],nums[i]);
             }
-            return pmax;
+            return smax;
     }
     
 
