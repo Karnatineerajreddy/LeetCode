@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1582-design-browser-history) |
+| [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
