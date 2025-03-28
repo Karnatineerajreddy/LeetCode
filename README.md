@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
