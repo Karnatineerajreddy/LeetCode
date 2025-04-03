@@ -7,9 +7,7 @@ public:
         int maxi=0;
         while(r<s.size()){
             if(ans[s[r]]!=-1){
-                if(l<=ans[s[r]]){
-                    l=ans[s[r]]+1;
-                }
+                l=ans[s[r]]>=l ? ans[s[r]]+1 : l;
             }
             int len=r-l+1;
             maxi=max(maxi,len);
