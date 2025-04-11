@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
