@@ -7,7 +7,7 @@ public:
         for (int r = 0; r < s.size(); ++r) {
             mpp[s[r]]++;
             maxCount = max(maxCount, mpp[s[r]]);
-            while ((r - l + 1) - maxCount > k) {
+            if ((r - l + 1) - maxCount > k) {
                 mpp[s[l]]--;
                 l++;
             }
