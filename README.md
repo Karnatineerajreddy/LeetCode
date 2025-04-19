@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
