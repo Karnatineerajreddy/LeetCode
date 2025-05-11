@@ -1,9 +1,10 @@
 class Solution {
 public:
-    bool threeConsecutiveOdds(vector<int>& nums) {
-        for(int i=1;i<nums.size()-1;i++){
-            if(nums[i]%2==1){
-                if(nums[i-1]%2==1 && nums[i+1]%2==1) return true;
+    bool threeConsecutiveOdds(vector<int>& arr) {
+        int n=arr.size();
+        for(int i=1;i<n-1;i++){
+            if(arr[i]%2==1){
+                if(arr[i-1]%2==1 && arr[i+1]%2==1) return true;
             }
         }
         return false;
