@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1542-consecutive-characters) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
