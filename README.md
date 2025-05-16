@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
