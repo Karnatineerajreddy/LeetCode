@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1642-water-bottles) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -758,4 +763,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
