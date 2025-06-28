@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3321-type-of-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Design
 |  |
 | ------- |
