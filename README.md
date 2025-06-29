@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0507-perfect-number) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1642-water-bottles) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
