@@ -9,6 +9,7 @@ public:
         return true;
     }
     int countGoodSubstrings(string s) {
+        if(s.size()<3) return 0;
         int i=0,count=0;
         while(i<=s.size()-3){
             if(checkdis(s.substr(i,3))) count++; 
