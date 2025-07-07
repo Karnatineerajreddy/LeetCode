@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2350-find-closest-number-to-zero](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
