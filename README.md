@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
