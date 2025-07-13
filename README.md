@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Trie
