@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
