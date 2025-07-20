@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2551-apply-operations-to-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3447-clear-digits) |
