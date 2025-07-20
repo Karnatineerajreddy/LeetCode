@@ -1,0 +1,15 @@
+class Solution {
+public:
+    vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
+        vector<pair<double, pair<int,int>>> fract; 
+        for(int i=0;i<arr.size();i++){
+            for(int j=i+1;j<arr.size();j++){
+                double val = (double)arr[i] / arr[j];
+                fract.push_back({val, {arr[i], arr[j]}});
+            }
+        }
+        sort(fract.begin(), fract.end());
+
+        return {fract[k - 1].second.first, fract[k - 1].second.second};
+    }
+};
