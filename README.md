@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
