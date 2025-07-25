@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
 |  |
 | ------- |
