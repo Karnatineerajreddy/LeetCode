@@ -12,6 +12,6 @@ public:
         for(auto it:st){
             ans+=it;
         }
-        return ans==0 ? maxnegative : ans;
+        return st.empty() ? maxnegative : ans;
     }
 };
