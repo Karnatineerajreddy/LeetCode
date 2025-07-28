@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
 | ------- |
