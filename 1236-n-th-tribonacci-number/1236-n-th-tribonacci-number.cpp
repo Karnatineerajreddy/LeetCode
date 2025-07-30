@@ -1,13 +1,15 @@
 class Solution {
 public:
-    int findTribo(int n,vector<int>&dp){
+    int tribonacci(int n) {
         if(n==0) return 0;
         if(n==1 || n==2) return 1;
-        if(dp[n]!=-1) return dp[n];
-        return dp[n]=findTribo(n-1,dp)+findTribo(n-2,dp)+findTribo(n-3,dp);
-    }
-    int tribonacci(int n) {
-        vector<int> dp(n+1,-1);
-        return findTribo(n,dp);
+        int a=0,b=1,c=1,res;
+        for(int i=3;i<=n;i++){
+            res=a+b+c;
+            a=b;
+            b=c;
+            c=res;
+        }
+        return res;
     }
 };
