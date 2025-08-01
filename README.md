@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
 |  |
@@ -909,4 +911,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
