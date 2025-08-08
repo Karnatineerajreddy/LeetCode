@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0792-binary-search) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Queue
