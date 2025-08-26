@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
