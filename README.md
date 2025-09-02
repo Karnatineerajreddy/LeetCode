@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
