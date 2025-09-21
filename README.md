@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
