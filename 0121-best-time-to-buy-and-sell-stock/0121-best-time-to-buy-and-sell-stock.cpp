@@ -1,13 +1,16 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int buydate=prices[0],maxi=0;
+        int maxProfit=0;
+        int buyStock=prices[0];
         for(int i=1;i<prices.size();i++){
-            if(prices[i]<buydate){
-                buydate=prices[i];
+            if(prices[i]<buyStock){
+                buyStock=prices[i];
             }
-            if(buydate<prices[i]) maxi=max(maxi,prices[i]-buydate);
+            else{
+                maxProfit=max(maxProfit,prices[i]-buyStock);
+            }
         }
-        return maxi;
+        return maxProfit;
     }
 };
