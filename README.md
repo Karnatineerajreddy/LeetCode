@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3324-split-the-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
