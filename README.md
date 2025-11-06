@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
 |  |
 | ------- |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Union Find
 |  |
 | ------- |
