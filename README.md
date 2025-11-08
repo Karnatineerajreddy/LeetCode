@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [4107-find-missing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
