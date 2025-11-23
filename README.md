@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4107-find-missing-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-distribute-money-to-maximum-children](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
 |  |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
