@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1559-cherry-pickup-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Simulation
 |  |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
