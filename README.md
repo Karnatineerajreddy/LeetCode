@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1839-decode-xored-array) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Counting Sort
@@ -1167,4 +1172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
