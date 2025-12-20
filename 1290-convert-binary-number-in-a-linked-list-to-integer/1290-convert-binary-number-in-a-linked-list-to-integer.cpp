@@ -11,11 +11,20 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        int ans=0;
-        while(head!=NULL){
-            ans=ans*2+head->val;
-            head=head->next;
+        string ans="";
+        ListNode* temp=head;
+        while(temp!=NULL){
+            ans+=(temp->val+'0');
+            temp=temp->next;
         }
-        return ans;
+        reverse(ans.begin(),ans.end());
+        int ans1=0,power=0;
+        for(int i=0;i<ans.size();i++){
+            if(ans[i]=='1'){
+                ans1+=(1<<power);
+            }
+            power++;
+        }
+        return ans1;
     }
 };
