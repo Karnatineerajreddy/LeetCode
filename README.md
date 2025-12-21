@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2861-maximum-number-of-alloys](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2861-maximum-number-of-alloys](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
