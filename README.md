@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1187,5 +1191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
