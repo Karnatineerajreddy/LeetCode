@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Queue
 |  |
