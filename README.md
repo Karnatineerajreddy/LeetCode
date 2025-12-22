@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2861-maximum-number-of-alloys](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
