@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2083-three-divisors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Breadth-First Search
 |  |
 | ------- |
