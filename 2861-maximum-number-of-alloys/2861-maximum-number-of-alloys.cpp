@@ -1,27 +1,31 @@
 class Solution {
 public:
-    bool check(int n,int k,int budget,vector<vector<int>>& composition,vector<int>& stock,vector<int>& cost, long long mid,vector<int>& comp){
-        long long cst=0;
-        for(int i=0;i<n;i++){
-            cst+=max((mid*comp[i]-stock[i]),0ll)*cost[i];
-        }
-        return cst<=budget;
-    }
-    int maxNumberOfAlloys(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost) {
-        long long ans=0;
-        for(auto comp:composition){
-            long long l=0,r=1e12,res=0;
-            while(l<=r){
-                int mid=l+(r-l)/2;
-                if(check(n,k,budget,composition,stock,cost,mid,comp)){
-                    res=mid;
-                    l=mid+1;
-                }
-                else{
-                    r=mid-1;
+    bool check(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost,int mid){
+        long long minCost=LLONG_MAX;
+        for(auto& it :  composition){
+            long long totalCost=0;
+            for(int i=0;i<n;i++){
+                long long need=1ll * it[i]*mid -stock[i];
+                if(need>0){
+                    totalCost+=need*cost[i];
                 }
             }
-            ans=max(ans,res);
+            minCost=min(minCost,totalCost);
+        }
+        return minCost<=budget;
+    }
+    int maxNumberOfAlloys(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost) {
+        int i=0,j=1e12;
+        long long ans=0;
+        while(i<=j){
+            int mid=(i+j)/2;
+            if(check(n,k,budget,composition,stock,cost,mid)){
+                ans=mid;
+                i=mid+1;
+            }
+            else{
+                j=mid-1;
+            }
         }
         return ans;
     }
