@@ -4,7 +4,7 @@ public:
         int ans=0;
         stack<int> st;
         st.push(INT_MAX);
-        for(auto it:arr){
+        for(auto it : arr){
             while(st.top()<=it){
                 int mid=st.top();
                 st.pop();
