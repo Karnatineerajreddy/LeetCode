@@ -1,10 +1,10 @@
 class Solution {
 public:
-    unordered_map<string,int>mpp;
+    unordered_map<string,int> mpp;
     int dfs(vector<int>& price, vector<vector<int>>& special, vector<int>& needs){
-        string key;
-        for(int x:needs){
-            key+=to_string(x)+",";
+        string key="";
+        for(auto it : needs){
+            key+=to_string(it) + ",";
         }
         if(mpp.count(key)) return mpp[key];
         int minCost=0;
@@ -21,9 +21,7 @@ public:
                 }
                 newNeed[i]-=it[i];
             }
-            if(valid){
-                minCost=min(minCost,it.back()+dfs(price,special,newNeed));
-            }
+            if(valid) minCost=min(minCost,it.back()+dfs(price,special,newNeed));
         }
         return mpp[key]=minCost;
     }
