@@ -1,12 +1,12 @@
 class Solution {
 public:
     int passThePillow(int n, int time) {
+        bool valid=true;
         int count=0,i=1;
-        bool forward=true;
         while(count<time){
-            if(forward){
+            if(valid){
                 if(i==n){
-                    forward=false;
+                    valid=false;
                     i--;
                 }
                 else{
@@ -15,7 +15,7 @@ public:
             }
             else{
                 if(i==1){
-                    forward=true;
+                    valid=true;
                     i++;
                 }
                 else{
@@ -25,6 +25,9 @@ public:
             count++;
         }
         return i;
-        
     }
 };
+/*
+
+
+*/
