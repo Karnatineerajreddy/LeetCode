@@ -1,32 +1,29 @@
 class Solution {
 public:
-    bool isFirstRow(string word){
-        string firstRow="qwertyuiop";
-        for(auto it : word){
-            if(firstRow.find(tolower(it))==string::npos) return false;
-        }
-        return true;
-    }
-    bool isSecondRow(string word){
-        string firstRow="asdfghjkl";
-        for(auto it : word){
-            if(firstRow.find(tolower(it))==string::npos) return false;
-        }
-        return true;
-    }
-    bool isThirdRow(string word){
-        string firstRow="zxcvbnm";
-        for(auto it : word){
-            if(firstRow.find(tolower(it))==string::npos) return false;
-        }
-        return true;
-    }
     vector<string> findWords(vector<string>& words) {
+        string row1 = "qwertyuiop";
+        string row2 = "asdfghjkl";
+        string row3 = "zxcvbnm";
+
         vector<string> ans;
-        for(auto it : words){
-            if(isFirstRow(it) || isSecondRow(it) || isThirdRow(it)){
-                ans.push_back(it);
+
+        for (string word : words) {
+            char first = tolower(word[0]);
+
+            string* row;
+            if (row1.find(first) != string::npos) row = &row1;
+            else if (row2.find(first) != string::npos) row = &row2;
+            else row = &row3;
+
+            bool valid = true;
+            for (char c : word) {
+                if (row->find(tolower(c)) == string::npos) {
+                    valid = false;
+                    break;
+                }
             }
+
+            if (valid) ans.push_back(word);
         }
         return ans;
     }
