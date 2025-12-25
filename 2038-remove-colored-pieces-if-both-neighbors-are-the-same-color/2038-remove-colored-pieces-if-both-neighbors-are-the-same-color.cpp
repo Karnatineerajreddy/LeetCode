@@ -2,7 +2,7 @@ class Solution {
 public:
     bool winnerOfGame(string colors) {
         int alice=0,bob=0;
-        for(int i=1;i<colors.size()-1;i++){
+        for(int i=1;i<colors.size();i++){
             if(colors[i]==colors[i-1] && colors[i]==colors[i+1]){
                 if(colors[i]=='A'){
                     alice++;
@@ -12,6 +12,6 @@ public:
                 }
             }
         }
-        return alice > bob;
+        return alice>bob;
     }
 };
