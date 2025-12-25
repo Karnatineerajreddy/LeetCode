@@ -10,14 +10,14 @@ public:
         for (string word : words) {
             char first = tolower(word[0]);
 
-            string* row;
-            if (row1.find(first) != string::npos) row = &row1;
-            else if (row2.find(first) != string::npos) row = &row2;
-            else row = &row3;
+            string row;
+            if (row1.find(first) != string::npos) row = row1;
+            else if (row2.find(first) != string::npos) row = row2;
+            else row = row3;
 
             bool valid = true;
             for (char c : word) {
-                if (row->find(tolower(c)) == string::npos) {
+                if (row.find(tolower(c)) == string::npos) {
                     valid = false;
                     break;
                 }
