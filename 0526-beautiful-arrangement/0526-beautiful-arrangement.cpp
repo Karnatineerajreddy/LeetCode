@@ -1,25 +1,25 @@
 class Solution {
 public:
-    void findCount(vector<int>& nums,int start,int& ans){
-        if(start==nums.size()){
+    void findValue(vector<int>& value,int start,int& ans){
+        if(start==value.size()){
             ans++;
             return;
         }
-        for(int i=start;i<nums.size();i++){
-            swap(nums[start],nums[i]);
-            if (nums[start] % (start + 1) == 0 || (start + 1) % nums[start] == 0) {
-                findCount(nums, start + 1, ans);
+        for(int i=start;i<value.size();i++){
+            swap(value[start],value[i]);
+            if(value[start]%(start+1)==0 || (start+1)%value[start]==0){
+                findValue(value,start+1,ans);
             }
-            swap(nums[start],nums[i]);
+            swap(value[start],value[i]);
         }
     }
     int countArrangement(int n) {
-        vector<int> nums(n);
+        vector<int> values;
         for(int i=0;i<n;i++){
-            nums[i]=i+1;
+            values.push_back(i+1);
         }
         int ans=0;
-        findCount(nums,0,ans);
+        findValue(values,0,ans);
         return ans;
     }
 };
