@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1328-break-a-palindrome](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1328-break-a-palindrome](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2032-largest-odd-number-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
