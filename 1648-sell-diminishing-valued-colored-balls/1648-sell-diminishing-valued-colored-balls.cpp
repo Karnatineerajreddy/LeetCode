@@ -1,23 +1,23 @@
 class Solution {
 public:
-    bool check(vector<int>& inventory,int orders,int mid){
-        long long count=0;
-        for(auto it : inventory){
+    bool check(vector<int>& inventory, int orders,int mid){
+        long long ans=0;
+        for(auto it:inventory){
             if(it>=mid){
-                count+=it-mid+1;
+                ans+=(it-mid+1);
             }
-            if(count>=orders) return true;
+            if(ans>=orders) return true;
         }
         return false;
     }
     int maxProfit(vector<int>& inventory, int orders) {
         const int mod=1e9+7;
         sort(inventory.begin(),inventory.end(),greater<int>());
-        int i=1,j=inventory[0],k=1;
+        int i=1,j=inventory[0],s=1;
         while(i<=j){
             int mid=(i+j)/2;
             if(check(inventory,orders,mid)){
-                k=mid;
+                s=mid;
                 i=mid+1;
             }
             else{
@@ -25,17 +25,17 @@ public:
             }
         }
         long long profit=0,sold=0;
-        for(auto val:inventory){
-            if(val>k){
-                long long count=val-k;
+        for(auto it:inventory){
+            if(it>s){
+                long long count=it-s;
                 sold+=count;
-                long long sum=(long long)(val+k+1)*count/2;
+                long long sum =(long long) (it+s+1)*count/2;
                 profit=(profit+sum)%mod;
             }
+
         }
-        profit=(profit+(orders-sold)*k)%mod;
+        profit=(profit+(orders-sold)*s)%mod;
         return profit;
-
-
     }
 };
+
