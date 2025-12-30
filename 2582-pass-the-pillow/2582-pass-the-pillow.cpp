@@ -1,8 +1,9 @@
 class Solution {
 public:
     int passThePillow(int n, int time) {
+        int count=0;
+        int i=1;
         bool valid=true;
-        int count=0,i=1;
         while(count<time){
             if(valid){
                 if(i==n){
@@ -27,7 +28,3 @@ public:
         return i;
     }
 };
-/*
-
-
-*/
