@@ -3,13 +3,13 @@ public:
     unordered_map<string,int> mpp;
     int dfs(vector<int>& price, vector<vector<int>>& special, vector<int>& needs){
         string key="";
-        for(auto it : needs){
-            key+=to_string(it) + ",";
+        for(auto it:needs){
+            key+=to_string(it)+',';
         }
         if(mpp.count(key)) return mpp[key];
-        int minCost=0;
+        int minPrice=0;
         for(int i=0;i<needs.size();i++){
-            minCost+=needs[i]*price[i];
+            minPrice+=(needs[i]*price[i]);
         }
         for(auto it:special){
             bool valid=true;
@@ -21,9 +21,12 @@ public:
                 }
                 newNeed[i]-=it[i];
             }
-            if(valid) minCost=min(minCost,it.back()+dfs(price,special,newNeed));
+            if(valid){
+                minPrice=min(minPrice,it.back()+dfs(price,special,newNeed));
+            }
         }
-        return mpp[key]=minCost;
+        return mpp[key]=minPrice;
+
     }
     int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
         return dfs(price,special,needs);
