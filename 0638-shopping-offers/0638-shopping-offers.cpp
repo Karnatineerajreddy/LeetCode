@@ -1,34 +1,43 @@
 class Solution {
 public:
     unordered_map<string,int> mpp;
-    int dfs(vector<int>& price, vector<vector<int>>& special, vector<int>& needs){
+    int dfs(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
         string key="";
         for(auto it:needs){
             key+=to_string(it)+',';
         }
         if(mpp.count(key)) return mpp[key];
-        int minPrice=0;
-        for(int i=0;i<needs.size();i++){
-            minPrice+=(needs[i]*price[i]);
+        int minCost = 0;
+        for (int i = 0; i < needs.size(); i++) {
+            minCost += needs[i] * price[i];
         }
-        for(auto it:special){
-            bool valid=true;
-            vector<int> newNeed=needs;
-            for(int i=0;i<needs.size();i++){
-                if(it[i]>needs[i]){
-                    valid=false;
+
+        for (auto& offer : special) {
+            bool valid = true;
+            vector<int> newNeeds = needs;
+
+            for (int i = 0; i < needs.size(); i++) {
+                if (offer[i] > needs[i]) {
+                    valid = false;
                     break;
                 }
-                newNeed[i]-=it[i];
+                newNeeds[i] -= offer[i];
             }
-            if(valid){
-                minPrice=min(minPrice,it.back()+dfs(price,special,newNeed));
+
+            if (valid) {
+                minCost = min(
+                    minCost,
+                    offer.back() + dfs(price, special, newNeeds)
+                );
             }
         }
-        return mpp[key]=minPrice;
 
+        return mpp[key]=minCost;
     }
-    int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
-        return dfs(price,special,needs);
+
+    int shoppingOffers(vector<int>& price,
+                       vector<vector<int>>& special,
+                       vector<int>& needs) {
+        return dfs(price, special, needs);
     }
 };
