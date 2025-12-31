@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1013-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1086-divisor-game](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1086-divisor-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -813,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0874-backspace-string-compare](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1048-longest-string-chain](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1048-longest-string-chain) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1260-day-of-the-year) |
