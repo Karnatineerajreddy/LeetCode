@@ -9,7 +9,7 @@ public:
     }
     int maxNumberOfAlloys(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost) {
         int ans=0;
-        for(auto comp:composition){
+        for(auto& comp:composition){
             long long i=0,j=1e12,value=0;
             while(i<=j){
                 long long mid=(i+j)/2;
