@@ -1,43 +1,33 @@
 class Solution {
 public:
-    map<string,int> mpp;
-    int dfs(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
+    unordered_map<string,int> mpp;
+    int findMinPrice(vector<int>& price,vector<vector<int>>& special,vector<int>& needs){
         string key="";
         for(auto it:needs){
-            key+=to_string(it)+',';
+            key+=to_string(it) + ',';
         }
         if(mpp.count(key)) return mpp[key];
-        int minCost = 0;
-        for (int i = 0; i < needs.size(); i++) {
-            minCost += needs[i] * price[i];
+        int minPrice=0;
+        for(int i=0;i<price.size();i++){
+            minPrice+=(price[i]*needs[i]);
         }
-
-        for (auto& offer : special) {
-            bool valid = true;
-            vector<int> newNeeds = needs;
-
-            for (int i = 0; i < needs.size(); i++) {
-                if (offer[i] > needs[i]) {
-                    valid = false;
+        for(auto it:special){
+            bool valid=true;
+            vector<int> newNeeds=needs;
+            for(int i=0;i<needs.size();i++){
+                if(needs[i]<it[i]){
+                    valid=false;
                     break;
                 }
-                newNeeds[i] -= offer[i];
+                newNeeds[i]-=it[i];
             }
-
-            if (valid) {
-                minCost = min(
-                    minCost,
-                    offer.back() + dfs(price, special, newNeeds)
-                );
+            if(valid){
+                minPrice=min(minPrice,it.back()+findMinPrice(price,special,newNeeds));
             }
         }
-
-        return mpp[key]=minCost;
+        return mpp[key]=minPrice;
     }
-
-    int shoppingOffers(vector<int>& price,
-                       vector<vector<int>>& special,
-                       vector<int>& needs) {
-        return dfs(price, special, needs);
+    int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
+        return findMinPrice(price,special,needs);
     }
 };
