@@ -11,7 +11,7 @@ public:
         for(int i=0;i<price.size();i++){
             minPrice+=(price[i]*needs[i]);
         }
-        for(auto it:special){
+        for(auto& it:special){
             bool valid=true;
             vector<int> newNeeds=needs;
             for(int i=0;i<needs.size();i++){
