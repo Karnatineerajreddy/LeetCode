@@ -8,14 +8,14 @@ public:
             if(st.top()<=arr[i]){
                 int val=st.top();
                 st.pop();
-                ans+=(val*min(st.top(),arr[i]));
+                ans+=val*min(st.top(),arr[i]);
             }
             st.push(arr[i]);
         }
         while(st.size()>2){
             int val=st.top();
             st.pop();
-            ans+=(val*st.top());
+            ans+=val*st.top();
         }
         return ans;
     }
