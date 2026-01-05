@@ -1,41 +1,41 @@
 class Solution {
 public:
     bool check(vector<int>& inventory, int orders,int mid){
-        long long ans=0;
-        for(auto it:inventory){
-            if(it>=mid){
-                ans+=(it-mid+1);
+        int maxCount=0;
+        for(int i=0;i<inventory.size();i++){
+            if(inventory[i]>=mid){
+                maxCount+=(inventory[i]-mid+1);
             }
-            if(ans>=orders) return true;
+            if(maxCount>=orders) return true;
         }
         return false;
     }
     int maxProfit(vector<int>& inventory, int orders) {
-        const int mod=1e9+7;
+        int mod=1e9+7,minValue=1;
         sort(inventory.begin(),inventory.end(),greater<int>());
-        int i=1,j=inventory[0],s=1;
-        while(i<=j){
-            int mid=(i+j)/2;
+        int left=1,right=inventory[0];
+        while(left<=right){
+            int mid=(left+right)/2;
             if(check(inventory,orders,mid)){
-                s=mid;
-                i=mid+1;
+                minValue=mid;
+                left=mid+1;
             }
             else{
-                j=mid-1;
+                right=mid-1;
             }
         }
         long long profit=0,sold=0;
         for(auto it:inventory){
-            if(it>s){
-                long long count=it-s;
+            if(it>minValue){
+                long long  count=(it-minValue);
                 sold+=count;
-                long long sum =(long long) (it+s+1)*count/2;
+                long long sum=(long long)(it+minValue+1) * count/2;
                 profit=(profit+sum)%mod;
             }
-
         }
-        profit=(profit+(orders-sold)*s)%mod;
+        if(orders!=sold){
+            profit=(profit+(orders-sold)*minValue)%mod;
+        }
         return profit;
     }
 };
-
