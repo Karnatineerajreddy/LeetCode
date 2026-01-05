@@ -5,7 +5,7 @@ public:
         stack<int> st;
         st.push(INT_MAX);
         for(int i=0;i<arr.size();i++){
-            if(st.top()<=arr[i]){
+            while(st.top()<=arr[i]){
                 int val=st.top();
                 st.pop();
                 ans+=val*min(st.top(),arr[i]);
