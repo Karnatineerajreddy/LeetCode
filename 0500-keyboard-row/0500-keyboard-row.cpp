@@ -1,29 +1,41 @@
 class Solution {
 public:
-    vector<string> findWords(vector<string>& words) {
-        string row1 = "qwertyuiop";
-        string row2 = "asdfghjkl";
-        string row3 = "zxcvbnm";
-
-        vector<string> ans;
-
-        for (string word : words) {
-            char first = tolower(word[0]);
-
-            string row;
-            if (row1.find(first) != string::npos) row = row1;
-            else if (row2.find(first) != string::npos) row = row2;
-            else row = row3;
-
-            bool valid = true;
-            for (char c : word) {
-                if (row.find(tolower(c)) == string::npos) {
-                    valid = false;
-                    break;
-                }
+    bool checkFirstRow(string s){
+        string firstRow="qwertyuiop";
+        for(auto it:s){
+            it=tolower(it);
+            if(firstRow.find(it)==string :: npos){
+                return false;
             }
-
-            if (valid) ans.push_back(word);
+        }
+        return true;
+    }
+    bool checkSecondRow(string s){
+        string secondRow="asdfghjkl";
+        for(auto it:s){
+            it=tolower(it);
+            if(secondRow.find(it)==string :: npos){
+                return false;
+            }
+        }
+        return true;
+    }
+    bool checkThirdRow(string s){
+        string thirdRow="zxcvbnm";
+        for(auto it:s){
+            it=tolower(it);
+            if(thirdRow.find(it)==string :: npos){
+                return false;
+            }
+        }
+        return true;
+    }
+    vector<string> findWords(vector<string>& words) {
+        vector<string> ans;
+        for(auto it:words){
+            if(checkFirstRow(it) || checkSecondRow(it) || checkThirdRow(it)){
+                ans.push_back(it);
+            }
         }
         return ans;
     }
