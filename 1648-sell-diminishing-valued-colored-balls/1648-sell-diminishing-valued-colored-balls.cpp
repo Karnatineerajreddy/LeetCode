@@ -33,9 +33,7 @@ public:
                 profit=(profit+sum)%mod;
             }
         }
-        if(orders!=sold){
-            profit=(profit+(orders-sold)*minValue)%mod;
-        }
+        profit=(profit+(orders-sold)*minValue)%mod;
         return profit;
     }
 };
