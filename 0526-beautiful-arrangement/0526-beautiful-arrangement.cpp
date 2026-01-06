@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void findValue(vector<int>& value,int start,int& ans){
-        if(start==value.size()){
-            ans++;
-            return;
+    int findPerm(vector<int>& perm,int start){
+        int ans=0;
+        if(start==perm.size()){
+            return 1;
         }
-        for(int i=start;i<value.size();i++){
-            swap(value[start],value[i]);
-            if(value[start]%(start+1)==0 || (start+1)%value[start]==0){
-                findValue(value,start+1,ans);
+        for(int i=start;i<perm.size();i++){
+            swap(perm[start],perm[i]);
+            if(perm[start]%(start+1)==0 || (start+1)%perm[start]==0){
+                ans+=findPerm(perm,start+1);
             }
-            swap(value[start],value[i]);
+            swap(perm[start],perm[i]);
         }
+        return ans;
     }
     int countArrangement(int n) {
-        vector<int> values;
-        for(int i=0;i<n;i++){
-            values.push_back(i+1);
+        vector<int> perm;
+        for(int i=1;i<=n;i++){
+            perm.push_back(i);
         }
-        int ans=0;
-        findValue(values,0,ans);
-        return ans;
+        return findPerm(perm,0);
     }
 };
