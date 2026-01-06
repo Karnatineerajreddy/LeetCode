@@ -8,7 +8,8 @@ public:
                 return palindrome;
             }
         }
-        palindrome[palindrome.size()-1]='b';
+        palindrome.back()='b';
         return palindrome;
+
     }
 };
