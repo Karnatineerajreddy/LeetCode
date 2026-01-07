@@ -1,27 +1,27 @@
 class Solution {
 public:
-    bool check(int n, int k, int budget, vector<int>& comp, vector<int>& stock, vector<int>& cost,long long mid){
+    bool alloyCheck(int n,int k, vector<int>& comp,vector<int>& stock,vector<int>& cost,long long mid,int budget){
         long long maxBudget=0;
         for(int i=0;i<n;i++){
-            maxBudget+=(max(mid*comp[i]-stock[i],0ll)*cost[i]);
+            maxBudget+=max(mid*comp[i]-stock[i],0ll)*cost[i];
         }
         return maxBudget<=budget;
     }
     int maxNumberOfAlloys(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost) {
         int ans=0;
-        for(auto& comp:composition){
-            long long i=0,j=1e12,value=0;
-            while(i<=j){
-                long long mid=(i+j)/2;
-                if(check(n,k,budget,comp,stock,cost,mid)){
-                    value=mid;
-                    i=mid+1;
+        for(auto it:composition){
+            long long left=0,right=1e9,maxValue=1;
+            while(left<=right){
+                long long mid=(left+right)/2;
+                if(alloyCheck(n,k,it,stock,cost,mid,budget)){
+                    maxValue=mid;
+                    left=mid+1;
                 }
                 else{
-                    j=mid-1;
+                    right=mid-1;
                 }
             }
-            ans=max((int)value,ans);
+            ans=max(ans,(int)maxValue);
         }
         return ans;
     }
