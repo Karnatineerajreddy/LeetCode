@@ -1,25 +1,25 @@
 class Solution {
 public:
     int maxPalindromesAfterOperations(vector<string>& words) {
-        vector<int> wordSize;
-        for(auto it:words){
-            wordSize.push_back(it.size());
+        vector<int> countSpaces;
+        for(auto it: words){
+            countSpaces.push_back(it.size());
         }
-        sort(wordSize.begin(),wordSize.end());
-        unordered_map<char,int> wordFreq;
+        sort(countSpaces.begin(),countSpaces.end());
+        unordered_map<char,int> countChar;
         for(auto it:words){
             for(auto c:it){
-                wordFreq[c]++;
+                countChar[c]++;
             }
         }
         int even=0,odd=0;
-        for(auto it:wordFreq){
+        for(auto it:countChar){
             even+=it.second/2;
             odd+=it.second%2;
         }
         int ans=0;
-        for(int i=0;i<wordSize.size();i++){
-            if(wordSize[i]%2==1){
+        for(auto it:countSpaces){
+            if(it%2==1){
                 if(odd){
                     odd--;
                 }
@@ -28,8 +28,8 @@ public:
                     odd++;
                 }
             }
-            if(even<wordSize[i]/2) break;
-            even-=wordSize[i]/2;
+            if(even<it/2) break;
+            even-=it/2;
             ans++;
         }
         return ans;
