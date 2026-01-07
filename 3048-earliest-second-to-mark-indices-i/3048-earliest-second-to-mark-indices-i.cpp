@@ -1,40 +1,43 @@
 class Solution {
 public:
-    bool checkPossible(vector<int>& nums, vector<int>& checkTwoZero,int s){
+    bool getEarliestSecond(vector<int>& nums, vector<int>& zeroIndices,int mid){
         vector<int> last(nums.size(),-1);
-        for(int i=0;i<=s;i++){
-            last[checkTwoZero[i]]=i;
+        for(int i=0;i<=mid;i++){
+            last[zeroIndices[i]]=i;
         }
         for(int i=0;i<nums.size();i++){
             if(last[i]==-1) return false;
         }
         int power=0;
-        for(int i=0;i<=s;i++){
-            int idx=checkTwoZero[i];
-            if(i==last[idx]){
-                if(power<nums[idx]) return false;
-                power-=nums[idx];
+        for(int i=0;i<=mid;i++){
+            int index=zeroIndices[i];
+            if(last[index]==i){
+                if(power<nums[index]) return false;
+                power-=nums[index];
             }
-            else power++;
+            else{
+                power++;
+            }
         }
         return true;
     }
     int earliestSecondToMarkIndices(vector<int>& nums, vector<int>& changeIndices) {
-        vector<int> checkTwoZero=changeIndices;
-        for(auto& it:checkTwoZero){
+        vector<int> zeroIndices=changeIndices;
+        for(auto& it:zeroIndices){
             it--;
         }
-        int i=0,j=checkTwoZero.size()-1,ans=-1;
+        int i=0,j=zeroIndices.size()-1,miniVal=-1;
         while(i<=j){
             int mid=(i+j)/2;
-            if(checkPossible(nums,checkTwoZero,mid)){
-                ans=mid;
+            if(getEarliestSecond(nums,zeroIndices,mid)){
+                miniVal=mid;
                 j=mid-1;
             }
             else{
                 i=mid+1;
             }
         }
-        return ans==-1? -1 : ans+1;
+        return miniVal==-1 ? -1 : miniVal+1; 
+
     }
 };
