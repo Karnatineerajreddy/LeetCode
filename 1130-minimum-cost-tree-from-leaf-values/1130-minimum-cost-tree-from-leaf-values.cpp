@@ -2,15 +2,15 @@ class Solution {
 public:
     int mctFromLeafValues(vector<int>& arr) {
         int ans=0;
-        stack<int> st;
+        stack<int>st;
         st.push(INT_MAX);
-        for(int i=0;i<arr.size();i++){
-            while(st.top()<=arr[i]){
+        for(auto it:arr){
+            while(st.top()<=it){
                 int val=st.top();
                 st.pop();
-                ans+=val*min(st.top(),arr[i]);
+                ans+=val*min(st.top(),it);
             }
-            st.push(arr[i]);
+            st.push(it);
         }
         while(st.size()>2){
             int val=st.top();
