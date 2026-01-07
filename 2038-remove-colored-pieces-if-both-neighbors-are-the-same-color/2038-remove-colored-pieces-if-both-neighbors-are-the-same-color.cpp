@@ -5,7 +5,7 @@ public:
         for(int i=1;i<colors.size()-1;i++){
             if(colors[i]==colors[i-1] && colors[i]==colors[i+1]){
                 if(colors[i]=='A') alice++;
-                if(colors[i]=='B') bob++;
+                else if(colors[i]=='B') bob++;
             }
         }
         return alice>bob;
