@@ -1,25 +1,24 @@
 class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
-        string firstRow="qwertyuiop";
-        string secondRow="asdfghjkl";
-        string thirdRow="zxcvbnm";
+        string row1="qwertyuiop";
+        string row2="asdfghjkl";
+        string row3="zxcvbnm";
         vector<string> ans;
         for(auto it:words){
             string row;
             char first=tolower(it[0]);
-            if(firstRow.find(first)!=string::npos) row=firstRow;
-            else if(secondRow.find(first)!=string::npos) row=secondRow;
-            else row=thirdRow;
+            if(row1.find(first)!=string::npos) row=row1;
+            else if(row2.find(first)!=string::npos) row=row2;
+            else row=row3;
             bool valid=true;
-            for(auto word:it){
-                if(row.find(tolower(word))==string::npos){
+            for(auto c:it){
+                if(row.find(tolower(c))==string::npos){
                     valid=false;
                     break;
                 }
             }
             if(valid) ans.push_back(it);
-
         }
         return ans;
     }
