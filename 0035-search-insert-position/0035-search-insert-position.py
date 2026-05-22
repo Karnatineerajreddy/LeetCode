@@ -5,16 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        if target in nums:
-            return nums.index(target)
+        i,j=0,len(nums)-1
+        while(i<=j):
+            mid=(i+j)/2
+            if nums[mid]==target:
+                return mid
+
+            elif nums[mid]<target:
+                i=mid+1
+            else:
+                j=mid-1
         
-        if target < nums[0]:
-            return 0
-        i=0
-        while  (i<len(nums)-1):
-            if target>nums[i] and target<nums[i+1]:
-                return i+1
-            i+=1
-        
-        return len(nums)
-        
+        return i
