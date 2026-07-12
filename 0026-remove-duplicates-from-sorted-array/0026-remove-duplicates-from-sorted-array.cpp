@@ -7,7 +7,6 @@ public:
                 nums[index+1]=nums[i];
                 index++;
             }
-
         }
         return index+1;
     }
