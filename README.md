@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/0948-sort-an-array) |
