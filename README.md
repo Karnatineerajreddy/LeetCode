@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Karnatineerajreddy/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karnatineerajreddy/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
